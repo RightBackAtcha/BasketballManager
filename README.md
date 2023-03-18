@@ -1,2 +1,2 @@
 # BasketballManager
-Basketball Manager game writtin in Python 
+Basketball Manager game written in Python using a SQLite for database storage
