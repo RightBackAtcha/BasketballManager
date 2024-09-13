@@ -1,2 +1,2 @@
 # BasketballManager
-Basketball Manager game written in JavaScript
+BasketballManager, a game written in JavaScript
